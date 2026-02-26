@@ -1,4 +1,5 @@
 /*temp_line*/;
+/*temp_line2*/;
 
 -- phpMyAdmin SQL Dump
 -- version 4.8.4
